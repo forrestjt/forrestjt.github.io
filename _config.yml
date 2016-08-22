@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Lost In The Forrest
 email: forrest@simplycoding.com
+title_image: profile.png
 
 # Write an awesome description for your new site here. You can edit this
 # line in _config.yml. It will appear in your document head meta (for
@@ -26,6 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://forrestjt.github.io" # the base hostname & protocol for your site
 twitter_username: slacker116
 github_username:  forrestjt
+linkedin_link: https://www.linkedin.com/in/forresttait
 
 # Build settings
 markdown: kramdown
